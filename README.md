@@ -1,5 +1,5 @@
 # 8-to-1 Multiplexer
-
+ 
 ## Overview
 This project implements an **8-to-1 multiplexer** in VHDL.  
 A multiplexer (MUX) is a digital switch that selects one of several input signals and forwards it to a single output line.  
