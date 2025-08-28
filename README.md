@@ -5,7 +5,7 @@ This project implements an **8-to-1 multiplexer** in VHDL.
 A multiplexer (MUX) is a digital switch that selects one of several input signals and forwards it to a single output line.  
 The selection is controlled by a binary select input.
 
-This project is part of my **100 VHDL Projects Roadmap**, progressing from basic logic gates to CPUs and SoCs.
+This project is **synthesizable** and suitable for **Synopsys tools**, and simulation is done using **ModelSim**.
 
 ## Design Details
 - **Entity:** `MUX8to1`
